@@ -1,0 +1,19 @@
+.cookieClass{
+    position: relative;
+    background: #073853;
+    height: 70px;
+    color: #49A4D5  ;
+    font-size: 25px;
+    font-weight: bolder;
+    padding-top: 30px;
+    padding-left: 170px;
+    padding-right:100px;
+
+}
+.btnCookie{
+    margin-left: 98%;
+    width: 30px;
+    border-radius: 50%;
+    background: #073853;
+    color: #49A4D5;
+}

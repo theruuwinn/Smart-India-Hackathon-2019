@@ -1,0 +1,64 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-sidebar{
+    margin: 40px 0px 20px 0px;
+}
+
+.nav-sidebar >li >a{
+    padding: 20px 20px;
+}
+
+.main{
+    margin-top: 20px;
+}
+
+.mained {
+    margin-top:40px;
+}
+
+.placeholders{
+    margin: 0% 40% 0% 10%;
+    text-align: center;
+}
+
+.dropdown:hover .dropdown-menu {display: block;}
+
+.header {
+    height: 40px;
+}
+
+#url {
+    width: 45%;
+    padding-right: 1%;
+}
+
+#folder {
+    width: 10%;
+    padding-right: 1%;
+}
+
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+.mybutton {
+    background-color: #059;
+    color: white;
+    padding: 3px 24px;
+    border-radius: 5px;
+}
+
+#turl { width: 30%; }
+#ttype { width: 10%; }
+#seradd { width: 20%; }
+#status { width: 20%; }
+
+#addBtn{
+    display: none;
+}

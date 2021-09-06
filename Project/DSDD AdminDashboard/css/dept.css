@@ -1,0 +1,42 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-sidebar{
+    margin: 40px 0px 20px 0px;
+}
+
+.nav-sidebar >li >a{
+    padding: 20px 20px;
+}
+
+.main{
+    margin-top: 20px;
+}
+
+.mained {
+    margin-top:40px;
+}
+
+.placeholders{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.dropdown:hover .dropdown-menu {display: block;}
+
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+.mybutton {
+    background-color: #059;
+    color: white;
+    padding: 3px 24px;
+    border-radius: 15px;
+}

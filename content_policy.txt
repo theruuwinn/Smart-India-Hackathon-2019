@@ -1,0 +1,4 @@
+1. This software was made as a part of SMART INDIA HACKATHON 2019.
+2. All the softwares used for making contents of this software are affirmed as OFFICIAL.
+3. All the files of this project may be considered as OPEN SOURCE for implementation.
+4. Modification and Reuse of this sotware for any purposes is permitted.
